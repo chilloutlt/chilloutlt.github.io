@@ -1,0 +1,12 @@
+/**
+ * chillout.lt noscript.css - css file to render site without JavaScript
+ * author: chillout.lt 2020
+ *
+ */
+#menu {
+    display: block;
+}
+#hamburgerMenu {
+    display: none;
+}
+
